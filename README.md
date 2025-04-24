@@ -1,10 +1,10 @@
-## 📌 About Me
+## About Me
 I am a Master’s student in **Econometrics** at the University of Bologna with a strong interest in time-varying factor models, advanced econometric methods, and the integration of machine learning into macroeconomic data analysis. I am currently working on a thesis titled:  
 **"Advancing High-Dimensional Factor Models: Integrating Time-Varying Loadings and Dynamic Factors"**
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 - **Time-Varying & State-Space Econometrics**
 - **Machine Learning in Macroeconomic Forecasting**
 - **Factor Models & Dimensionality Reduction**
@@ -12,7 +12,7 @@ I am a Master’s student in **Econometrics** at the University of Bologna with 
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 - **Dynamic Factor Models with Kalman Filtering**  
   Implementing time-varying factors for macroeconomic datasets.
 - **Comparative Analysis of Machine Learning Forecasts**  
@@ -25,8 +25,3 @@ I am a Master’s student in **Econometrics** at the University of Bologna with 
   Addressing challenges with missing values and outliers in high-dimensional time series.
 - **Hybrid Factor Model**  
   Integrating time-varying loadings with dynamic factors to enhance model flexibility.
-
----
-
-## 📬 Connect with Me
-Feel free to reach out or connect if you share similar research interests or have collaborative ideas!
