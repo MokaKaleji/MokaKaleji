@@ -44,4 +44,4 @@ Application of PCA, FA, and CA to identify latent structures in regional rental 
 
 ---
 
-📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/moka-kaleji/) | [Email](mailto:mohammadkaleji1998@gmail.com)
+**Contact:** [LinkedIn](https://www.linkedin.com/in/moka-kaleji/) | [Email](mailto:mohammadkaleji1998@gmail.com)
