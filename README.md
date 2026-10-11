@@ -1,47 +1,42 @@
-## About Me
-I am a **graduate in Economics and Econometrics** from the University of Bologna, specializing in **high-dimensional and time-varying dynamic factor models**.  
-My research focuses on advancing econometric inference under structural change and uncertainty, with applications to **macroeconomic forecasting** and **monetary policy analysis**.  
+## About me
 
-My master’s thesis, *“Time-Varying Dynamic Factor Models: Estimation and Forecasting,”* developed a **kernel-based EM–QML estimation framework** for factor models with smoothly evolving parameters.
+I am a PhD student in Economics at the University of Manchester, supervised by Karim Chalak and Chad Brown. Before Manchester I was a predoctoral researcher at the University of Turin and Collegio Carlo Alberto.
 
----
+I work in econometrics, mainly on time varying models, identification and forecast uncertainty. My MSc thesis at the University of Bologna, *Time-Varying Dynamic Factor Models: Estimation and Forecasting*, built a kernel based EM and QML estimation framework for factor models whose parameters change smoothly over time.
 
-## Research Interests
-- **Time-Varying & State-Space Econometrics**  
-- **Factor Models & High-Dimensional Inference**  
-- **Machine Learning for Macroeconomic Forecasting**  
-- **Structural Breaks & Nonstationarity**  
-- **Central Banking & Monetary Policy**
+## Research interests
 
----
+- Time varying and state space econometrics
+- Factor models and high dimensional inference
+- Identification
+- Forecast uncertainty and macroeconomic forecasting
+- Structural breaks and nonstationarity
+- Monetary policy
 
-## Selected Projects
+## Selected projects
 
-### Dynamic Factor Models with Kalman Filtering
-Estimation and forecasting of macroeconomic indicators using QML and time-varying state-space structures.
+**Dynamic factor models with Kalman filtering**
+Estimating and forecasting macroeconomic indicators with QML and time varying state space models.
 
-### Locally Stationary Factor Models (LSFM)
-Implementation of kernel-weighted PCA to capture gradual parameter shifts in large macroeconomic datasets.
+**Locally stationary factor models**
+Kernel weighted PCA to pick up gradual parameter shifts in large macroeconomic datasets.
 
-### Hybrid Time-Varying Factor Models
-Integration of time-varying loadings and transition matrices for improved adaptability under structural change.
+**Hybrid time varying factor models**
+Time varying loadings and transition matrices together, so the model can follow structural change.
 
-### Comparative Analysis of Machine Learning Forecasts
-Benchmarking machine learning and econometric forecasting models across key macroeconomic variables, including the COVID-19 shock period.
+**Machine learning vs econometric forecasts**
+A comparison of ML and econometric forecasting models on key macroeconomic variables, including the COVID period.
 
-### Macroeconomic Data Processing & Imputation
-Preprocessing pipeline for FRED-QD: outlier detection, IQR filtering, stationarity transformations, and EM–Kalman imputation.
+**FRED-QD processing and imputation**
+Outlier detection, IQR filtering, stationarity transformations and EM Kalman imputation.
 
-### Dimensionality Reduction in Rental Market Data
-Application of PCA, FA, and CA to identify latent structures in regional rental dynamics.
+**Dimensionality reduction in rental market data**
+PCA, FA and CA to find latent structure in regional rental dynamics.
 
----
+## Tools
 
-## Skills
-**Languages & Tools:** R, MATLAB, Python, LaTeX, Stata  
-**Core Competencies:** Econometric Modeling, Simulation, Time-Series Analysis, Statistical Learning  
-**Domains:** Macroeconometrics, Forecasting, Financial and Policy Analysis  
+MATLAB, R, Python, Stata, LaTeX
 
----
+## Contact
 
-**Contact:** [LinkedIn](https://www.linkedin.com/in/moka-kaleji/) | [Email](mailto:mohammadkaleji1998@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/moka-kaleji/) · [Email](mailto:mohammadkaleji1998@gmail.com)
