@@ -39,4 +39,4 @@ MATLAB, R, Python, Stata, LaTeX
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/moka-kaleji/) · [Email](mailto:mohammadkaleji1998@gmail.com)
+[University of Manchester profile](https://research.manchester.ac.uk/en/persons/moka-kaleji/) · [LinkedIn](https://www.linkedin.com/in/moka-kaleji/) · [Email](mailto:mohammadkaleji1998@gmail.com)
